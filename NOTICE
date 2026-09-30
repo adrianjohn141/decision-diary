@@ -1,0 +1,18 @@
+Decision Diary
+Copyright (c) 2026 Aj Escaño. All rights reserved.
+
+Original application and website code, design, and branding are proprietary,
+subject to LICENSE and the Terms of Use. This notice does not claim ownership
+of third-party components or users' diary content.
+
+AndroidX, Jetpack Compose, Material, Room, WorkManager, Kotlin, Kotlin coroutines,
+LiteRT LM, Qwen3, Lora, EB Garamond, and other upstream components retain their
+respective authors' rights and licenses. See docs/THIRD_PARTY_NOTICES.md and
+the app's Licenses screen. Preserve all upstream copyright and license notices.
+
+The public website and releases are hosted at:
+https://adrianjohn141.github.io/decision-diary/
+https://github.com/adrianjohn141/decision-diary/
+
+Copyright notices are declarations of ownership, not proof of registration,
+trademark registration, or a technical measure preventing copying.
