@@ -14,7 +14,7 @@ Capture decisions and original reasoning; revisit expectations and outcomes; exp
 
 ## Current download
 
-Version 0.2.2 is a signed **development preview**, not a production release. Android 8.0+ is required. The APK is approximately 412 MB because it includes the offline AI model. Performance depends on the device; the core journal works without AI. Back up important entries before updating or replacing an installation.
+Version 0.2.2 is a signed **development preview**, not a production release. Android 8.0+ is required. The APK is approximately 419 MB because it includes the offline AI model. Performance depends on the device; the core journal works without AI. Back up important entries before updating or replacing an installation.
 
 ## Privacy and third-party components
 
