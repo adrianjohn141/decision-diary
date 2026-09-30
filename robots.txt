@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adrianjohn141.github.io/decision-diary/sitemap.xml
