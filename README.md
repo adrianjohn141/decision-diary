@@ -14,11 +14,11 @@ Capture decisions and original reasoning; revisit expectations and outcomes; exp
 
 ## Current download
 
-Version 0.2.3 is a signed **development preview**, not a production release. Android 8.0+ is required. The APK is approximately 413 MB because it includes the offline AI model. Performance depends on the device; the core journal works without AI. Back up important entries before updating or replacing an installation.
+Version 0.2.4 is a signed **development preview**, not a production release. Android 8.0+ is required. The APK is approximately 420 MB because it includes the offline AI model. Performance depends on the device; the core journal works without AI. Back up important entries before updating or replacing an installation.
 
 ## Privacy and third-party components
 
-The app keeps journal records in Android app-private storage. Credentials and optional backup archives are encrypted; the Room database itself does not use a separate app-level encryption key. App-level third-party component and model acknowledgements are available in the app's Licenses screen.
+The app keeps journal records in Android app-private storage. The journal database is encrypted with a device-bound Android Keystore key, and credentials and optional backup archives are encrypted. App-level third-party component and model acknowledgements are available in the app's Licenses screen.
 
 This website has no tracking scripts. GitHub Pages and GitHub Downloads are hosted by GitHub and subject to GitHub's privacy policy and standard service limits.
 
